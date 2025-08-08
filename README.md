@@ -1,47 +1,41 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Lakshmipriya Sreekumar] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [NotNull]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Jagan K Satheesh] - [Jyothi Engineering College]
+- Member 2: [Lakshmipriya Sreekumar] - [Jyothi Engineering College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[An animated digital clock that randomly changes its font, color, and character set every second, creating a visually chaotic and completely unreadable, yet captivating, time-telling experience. It's a testament to the beauty of randomness.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[The ubiquity of static, boring digital clocks has led to a global epidemic of visual monotony. People are tired of seeing the time in the same predictable font and color. Our project solves this nonexistent problem by injecting chaos and joy into timekeeping, one second at a time.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We created a web page that serves as an animated digital clock. Every second, it randomly selects a new font and color from a predefined list. The digits themselves are animated to appear with a smooth transition, and the entire page features a subtle, eye-catching background animation. It's a clock that's both useless and beautiful.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [html]
+- [css]
+- [javascript]
+- [vs code,gemini ai,github]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[No commands required]
 
 # Run
-[commands]
+[No commands required]
 
 ### Project Documentation
 For Software:
