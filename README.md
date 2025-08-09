@@ -44,7 +44,7 @@ For Software:
 ![Screenshot1](https://github.com/Lakshmipriya-Sreekumar/useless_project_temp/blob/main/1.png)
 The image shows the time being displayed in a background with time being displayed in different fonts in every second.
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](https://github.com/Lakshmipriya-Sreekumar/useless_project_temp/blob/main/2.png)
 The image shows the time being displayed in a background with time being displayed in different fonts in every second.
 
 
