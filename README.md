@@ -48,7 +48,7 @@ The image shows the time being displayed in a background with time being display
 The image shows the time being displayed in a background with time being displayed in different fonts in every second.
 
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](https://github.com/Lakshmipriya-Sreekumar/useless_project_temp/blob/main/3.png)
 The image shows the time being displayed in a background with time being displayed in different fonts in every second.
 
 
