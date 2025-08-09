@@ -42,14 +42,14 @@ For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](https://github.com/Lakshmipriya-Sreekumar/useless_project_temp/blob/main/1.png)
-The image shows the time being displayed in a background with time being displayed in different fonts in every second.
+The image shows the time being displayed in a background with date, time being displayed in different fonts in every second.
 
 ![Screenshot2](https://github.com/Lakshmipriya-Sreekumar/useless_project_temp/blob/main/2.png)
-The image shows the time being displayed in a background with time being displayed in different fonts in every second.
+The image shows the time being displayed in a background with date, time being displayed in different fonts in every second.
 
 
 ![Screenshot3](https://github.com/Lakshmipriya-Sreekumar/useless_project_temp/blob/main/3.png)
-The image shows the time being displayed in a background with time being displayed in different fonts in every second.
+The image shows the time being displayed in a background with date, and time being displayed in different fonts in every second.
 
 
 # Diagrams
@@ -59,8 +59,8 @@ The image shows the time being displayed in a background with time being display
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1xNohUiz-vZqtvnioeAlQ3gpK9_BTDz-N/view?usp=sharing]
+*The video shows the displaying of a digital clock that displays time in different color and font and also the day.
 
 ## Team Contributions
 - [Lakshmipriya Sreekumar]: [idea, Github setup]
