@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Digital Clock</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <h2>Tik Tik</h2>
+    <video autoplay muted loop id="bgvideo">
+    <source src="bgvideo.mp4" type="video/mp4">
+</video>
+<div class="day-container">
+    <h1>Today is:</h1>
+    <p id="dayName">Loading...</p>
+  </div>
+<div class="video-overlay"></div>
+
+    <div id="clock-container">
+        <div id="clock"></div>
+    </div>
+<div id="clock-container">
+  <div id="clock-label">Current Time</div>
+  <div id="clock" lang="en"></div>
+</div>
+    <script src="script.js"></script>
+
+</body>
+</html>
