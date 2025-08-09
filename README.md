@@ -53,8 +53,12 @@ The image shows the time being displayed in a background with date, and time bei
 
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow](https://github.com/Lakshmipriya-Sreekumar/useless_project_temp/blob/main/flowchart(tiktik).jpg)
+[The diagram is a flowchart that shows the simple workflow of a digital clock webpage.
+
+It starts with HTML, which provides the basic structure of the page. This structure is then styled by CSS to control the look and appearance. Finally, JavaScript acts as the engine, continuously updating the HTML with the real-time clock data.
+
+In short, the browser opens the HTML file, the CSS makes it look good, and the JavaScript updates the time every second.]
 
 
 ### Project Demo
